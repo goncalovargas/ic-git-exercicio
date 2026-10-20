@@ -1,5 +1,7 @@
-\# Introdução a computação
+# Introdução a computação
 
-\## Execícios de Git e GitHub - por Gonçalo Vargas nº 22605800
+## Execícios de Git e GitHub - por Gonçalo Vargas nº 22605800
 
-# ic-git-exercicio
+Funcionalidades:
+* Comer cheetos 
+* e Doritos

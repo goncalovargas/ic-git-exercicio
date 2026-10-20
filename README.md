@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Introdução a computação
 
@@ -8,3 +9,6 @@ Funcionalidades:
 * e Doritos
 
 
+=======
+
+>>>>>>> 437b37be6a80e701944642a239d75ba5a25b66a0

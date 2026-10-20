@@ -1,6 +1,5 @@
 
-# Introdução a computação
-
+# Projeto de Introdução à Computação - Versão B
 ## Execícios de Git e GitHub - por Gonçalo Vargas nº 22605800
 
 Funcionalidades:

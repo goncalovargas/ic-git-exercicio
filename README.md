@@ -6,3 +6,8 @@
 Funcionalidades:
 * Comer cheetos 
 * e Doritos
+
+## O que aprendi
+Eu aprendi:
+* Como usar melhor o Git e o Github
+* Como comer melhor cheetos e Doritos 
